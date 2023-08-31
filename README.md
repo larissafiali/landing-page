@@ -7,11 +7,11 @@
 - Projeto proposto pelo curso DevQuest do Dev em Dobro.
 
 ## 💻 Versão Desktop
-![image](https://github.com/larissafiali/landing-page/assets/127343150/63f6a13b-4754-4af3-a536-86ccfe01d6c2)
 
 
 ## 🤳🏻 Versão Mobile
-![image](https://github.com/larissafiali/landing-page/assets/127343150/1c9a9907-b5e5-4249-ad64-98bda2e108ff)
+![Animação landing page 2](https://github.com/larissafiali/landing-page/assets/127343150/d61f8edb-9854-4d68-aff1-ff36f1d8d724)
+
 
 
 ## ⚙️ Tecnologias utilizadas
