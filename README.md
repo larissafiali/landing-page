@@ -9,6 +9,8 @@
 ## 💻 Versão Desktop
 
 
+
+
 ## 🤳🏻 Versão Mobile
 ![Animação landing page 2](https://github.com/larissafiali/landing-page/assets/127343150/d61f8edb-9854-4d68-aff1-ff36f1d8d724)
 
