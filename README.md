@@ -1,15 +1,18 @@
 # Projeto Landing Page
 
-![Alt text](<Foto landing page.png>)
+![image](https://github.com/larissafiali/landing-page/assets/127343150/8c8fb656-cd2a-4e55-8ac0-2c5a2ebddb8e)
+
 
 ## 📌 Sobre
 - Projeto proposto pelo curso DevQuest do Dev em Dobro.
 
 ## 💻 Versão Desktop
-![Alt text](<Animação landing page.gif>)
+![image](https://github.com/larissafiali/landing-page/assets/127343150/63f6a13b-4754-4af3-a536-86ccfe01d6c2)
+
 
 ## 🤳🏻 Versão Mobile
-![Alt text](<Animação landing page 2.gif>)
+![image](https://github.com/larissafiali/landing-page/assets/127343150/1c9a9907-b5e5-4249-ad64-98bda2e108ff)
+
 
 ## ⚙️ Tecnologias utilizadas
 -  HTML
